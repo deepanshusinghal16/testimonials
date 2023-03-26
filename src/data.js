@@ -3,7 +3,7 @@ const reviews = [
     id: 1,
     name: "Deepanshu Singhal",
     job: "Software Engineer",
-    image: "https://media.licdn.com/dms/image/D5603AQFp8P8SHlaFjw/profile-displayphoto-shrink_400_400/0/1674491176130?e=1684972800&v=beta&t=kehvPPkTn98JPxBxUQcDeOmkbYT2w4D0LVFluRrnFzQ",
+    image: "https://media.licdn.com/dms/image/D4D03AQFIs5yS-CfbMA/profile-displayphoto-shrink_400_400/0/1679507464004?e=1685577600&v=beta&t=zrNWBHYRuYQC3T5MeAr-LeQ-ZQnC1xZffcXuUog0pYI",
     text: "As a software engineer, I am dedicated to creating efficient and user-friendly solutions that meet the unique needs of each project. I am constantly seeking out new technologies and techniques to improve my skills and provide the highest quality product possible.",
   },
   {
